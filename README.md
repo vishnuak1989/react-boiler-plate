@@ -25,6 +25,6 @@ npm run dev-server
 ```
 
  ## About me
- Vishnu Anilkumar
- Developer
+ Vishnu Anilkumar, <nr />
+ Developer <br />
   [My website](http://vishnuanilkumar.com)
