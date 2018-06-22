@@ -20,7 +20,8 @@
 
 #### Other Commands
 To kick start the dev server, execute
-``` npm run dev-server
+``` 
+npm run dev-server
 ```
 
  ## About me
