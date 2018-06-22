@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Should render Dashboard Page 1`] = `
+<div
+  className="container"
+>
+  <h1>
+     Dashboard 
+  </h1>
+</div>
+`;

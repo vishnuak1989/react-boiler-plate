@@ -1,0 +1,66 @@
+{
+  "user": {
+    "id": 54007,
+    "name": "A User",
+    "address": "12 Main St.",
+    "avatar": "data:image/png;base64,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",
+    "zip": "M1M 1M1",
+    "city": "Toronto",
+    "state": "ON",
+    "country": "CA",
+    "businesses": [{
+      "id": 655134,
+      "name": "My Business",
+      "organization_type": "Sole Proprietorship",
+      "business_type": 123,
+      "start_date": "2017-01-01"
+    }, {
+      "id": 658714,
+      "name": "My Other Business",
+      "organization_type": "S-Corporation",
+      "business_type": 125,
+      "start_date": "2010-01-01"
+    }, {
+      "id": 658909,
+      "name": "My Personal Business",
+      "organization_type": "Sole Proprietorship",
+      "business_type": 43,
+      "start_date": "2017-06-01"
+    }]
+  },
+  "customers": [
+    {
+      "id": 120911,
+      "name": "A Customer",
+      "email": "customer@email.com",
+      "channel": "website",
+      "address": "12 Main St.",
+      "postal": "M1M 1M1",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 146633,
+      "name": "Another Customer",
+      "email": "customer2@email.com",
+      "channel": "phone",
+      "address": "12 Yonge St. #23",
+      "postal": "M2M 2M2",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA"
+    },
+    {
+      "id": 171981,
+      "name": "A Great Customer",
+      "email": "customerplusplus@email.com",
+      "channel": "email",
+      "address": "2312 Eglinton Ave.",
+      "postal": "M3M 3M3",
+      "city": "Toronto",
+      "province": "ON",
+      "country": "CA"
+    }
+  ]
+}

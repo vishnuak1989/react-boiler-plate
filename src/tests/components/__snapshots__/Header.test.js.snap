@@ -1,0 +1,43 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render correctly 1`] = `
+<header
+  className="header"
+>
+  <div
+    className="header__content"
+  >
+    <h1
+      className="header__title"
+    >
+      TITLE
+    </h1>
+    <ul>
+      <NavLink
+        activeClassName="selected"
+        ariaCurrent="true"
+        exact={true}
+        to="/"
+      >
+        <button
+          className="button"
+        >
+          Dashboard
+        </button>
+      </NavLink>
+      <NavLink
+        activeClassName="active"
+        ariaCurrent="true"
+        exact={true}
+        to="/about"
+      >
+        <button
+          className="button"
+        >
+          About
+        </button>
+      </NavLink>
+    </ul>
+  </div>
+</header>
+`;

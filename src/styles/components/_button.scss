@@ -1,0 +1,33 @@
+  .button{
+    cursor:pointer;
+    background-color:$twitter-blue;
+    border:none;
+    color:white;
+    border-bottom: 0.5rem solid darken($twitter-blue, 10%);
+    font-size:$m-size;
+    padding:0.5rem;
+    margin-bottom: 0.2rem;
+  }
+
+  .warning-button{
+    cursor:pointer;
+    background-color:$kinda-orange;
+    border:none;
+    color:white;
+    border-bottom: 0.5rem solid darken($kinda-orange, 10%);
+    font-size:$m-size;
+    padding:0.5rem;
+    margin-bottom: 0.2rem;
+  }
+  
+  
+  .ash-button{
+    cursor:pointer;
+    background-color:$almost-ash;
+    border:none;
+    color:white;
+    border-bottom: 0.5rem solid darken($twitter-blue, 10%);
+    font-size:$m-size;
+    padding:0.5rem;
+    margin-bottom: 0.2rem;
+  }

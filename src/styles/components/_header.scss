@@ -1,0 +1,24 @@
+.header {
+  background: $dark-blue;
+}
+
+.header__content {
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  padding: $s-size 0;
+}
+
+.header__title {
+  color: white;
+  text-decoration: none;
+  h1 {
+    margin: 0;
+  }
+}
+
+@media(min-width:$desktop-threshold){
+  .header{
+    margin-bottom: $xl-size;
+  }
+}
