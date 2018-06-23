@@ -1,4 +1,5 @@
-# Basic React Boiler Plate with Redux, SASS, JEST
+# React Boiler Plate with Redux, SASS, Jest
+![logo](https://github.com/vishnuak1989/react-boiler-plate/blob/master/public/images/favico.png)
 ## Scripts 
 #### This is a production ready boiler plate with redux. You must have minimal knowledge of react-redux to use this boilerplate.
 
